@@ -1,0 +1,15 @@
+C:\Users\Belu\Desktop\.NET-ejercicios\Calcular-rectangulo\Calcular-rectangulo\bin\Debug\net6.0\Calcular-rectangulo.exe
+C:\Users\Belu\Desktop\.NET-ejercicios\Calcular-rectangulo\Calcular-rectangulo\bin\Debug\net6.0\Calcular-rectangulo.deps.json
+C:\Users\Belu\Desktop\.NET-ejercicios\Calcular-rectangulo\Calcular-rectangulo\bin\Debug\net6.0\Calcular-rectangulo.runtimeconfig.json
+C:\Users\Belu\Desktop\.NET-ejercicios\Calcular-rectangulo\Calcular-rectangulo\bin\Debug\net6.0\Calcular-rectangulo.dll
+C:\Users\Belu\Desktop\.NET-ejercicios\Calcular-rectangulo\Calcular-rectangulo\bin\Debug\net6.0\Calcular-rectangulo.pdb
+C:\Users\Belu\Desktop\.NET-ejercicios\Calcular-rectangulo\Calcular-rectangulo\obj\Debug\net6.0\Calcular-rectangulo.csproj.AssemblyReference.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\Calcular-rectangulo\Calcular-rectangulo\obj\Debug\net6.0\Calcular-rectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belu\Desktop\.NET-ejercicios\Calcular-rectangulo\Calcular-rectangulo\obj\Debug\net6.0\Calcular-rectangulo.AssemblyInfoInputs.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\Calcular-rectangulo\Calcular-rectangulo\obj\Debug\net6.0\Calcular-rectangulo.AssemblyInfo.cs
+C:\Users\Belu\Desktop\.NET-ejercicios\Calcular-rectangulo\Calcular-rectangulo\obj\Debug\net6.0\Calcular-rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\Calcular-rectangulo\Calcular-rectangulo\obj\Debug\net6.0\Calcular-rectangulo.dll
+C:\Users\Belu\Desktop\.NET-ejercicios\Calcular-rectangulo\Calcular-rectangulo\obj\Debug\net6.0\refint\Calcular-rectangulo.dll
+C:\Users\Belu\Desktop\.NET-ejercicios\Calcular-rectangulo\Calcular-rectangulo\obj\Debug\net6.0\Calcular-rectangulo.pdb
+C:\Users\Belu\Desktop\.NET-ejercicios\Calcular-rectangulo\Calcular-rectangulo\obj\Debug\net6.0\Calcular-rectangulo.genruntimeconfig.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\Calcular-rectangulo\Calcular-rectangulo\obj\Debug\net6.0\ref\Calcular-rectangulo.dll
