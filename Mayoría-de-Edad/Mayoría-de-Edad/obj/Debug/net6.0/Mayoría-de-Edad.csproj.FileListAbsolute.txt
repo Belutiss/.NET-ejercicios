@@ -1,0 +1,15 @@
+C:\Users\Belu\Desktop\.NET-ejercicios\Mayoría-de-Edad\Mayoría-de-Edad\bin\Debug\net6.0\Mayoría-de-Edad.exe
+C:\Users\Belu\Desktop\.NET-ejercicios\Mayoría-de-Edad\Mayoría-de-Edad\bin\Debug\net6.0\Mayoría-de-Edad.deps.json
+C:\Users\Belu\Desktop\.NET-ejercicios\Mayoría-de-Edad\Mayoría-de-Edad\bin\Debug\net6.0\Mayoría-de-Edad.runtimeconfig.json
+C:\Users\Belu\Desktop\.NET-ejercicios\Mayoría-de-Edad\Mayoría-de-Edad\bin\Debug\net6.0\Mayoría-de-Edad.dll
+C:\Users\Belu\Desktop\.NET-ejercicios\Mayoría-de-Edad\Mayoría-de-Edad\bin\Debug\net6.0\Mayoría-de-Edad.pdb
+C:\Users\Belu\Desktop\.NET-ejercicios\Mayoría-de-Edad\Mayoría-de-Edad\obj\Debug\net6.0\Mayoría-de-Edad.csproj.AssemblyReference.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\Mayoría-de-Edad\Mayoría-de-Edad\obj\Debug\net6.0\Mayoría-de-Edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belu\Desktop\.NET-ejercicios\Mayoría-de-Edad\Mayoría-de-Edad\obj\Debug\net6.0\Mayoría-de-Edad.AssemblyInfoInputs.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\Mayoría-de-Edad\Mayoría-de-Edad\obj\Debug\net6.0\Mayoría-de-Edad.AssemblyInfo.cs
+C:\Users\Belu\Desktop\.NET-ejercicios\Mayoría-de-Edad\Mayoría-de-Edad\obj\Debug\net6.0\Mayoría-de-Edad.csproj.CoreCompileInputs.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\Mayoría-de-Edad\Mayoría-de-Edad\obj\Debug\net6.0\Mayoría-de-Edad.dll
+C:\Users\Belu\Desktop\.NET-ejercicios\Mayoría-de-Edad\Mayoría-de-Edad\obj\Debug\net6.0\refint\Mayoría-de-Edad.dll
+C:\Users\Belu\Desktop\.NET-ejercicios\Mayoría-de-Edad\Mayoría-de-Edad\obj\Debug\net6.0\Mayoría-de-Edad.pdb
+C:\Users\Belu\Desktop\.NET-ejercicios\Mayoría-de-Edad\Mayoría-de-Edad\obj\Debug\net6.0\Mayoría-de-Edad.genruntimeconfig.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\Mayoría-de-Edad\Mayoría-de-Edad\obj\Debug\net6.0\ref\Mayoría-de-Edad.dll
