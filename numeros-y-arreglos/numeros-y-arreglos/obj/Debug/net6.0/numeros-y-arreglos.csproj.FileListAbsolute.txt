@@ -1,0 +1,15 @@
+C:\Users\Belu\Desktop\.NET-ejercicios\numeros-y-arreglos\numeros-y-arreglos\bin\Debug\net6.0\numeros-y-arreglos.exe
+C:\Users\Belu\Desktop\.NET-ejercicios\numeros-y-arreglos\numeros-y-arreglos\bin\Debug\net6.0\numeros-y-arreglos.deps.json
+C:\Users\Belu\Desktop\.NET-ejercicios\numeros-y-arreglos\numeros-y-arreglos\bin\Debug\net6.0\numeros-y-arreglos.runtimeconfig.json
+C:\Users\Belu\Desktop\.NET-ejercicios\numeros-y-arreglos\numeros-y-arreglos\bin\Debug\net6.0\numeros-y-arreglos.dll
+C:\Users\Belu\Desktop\.NET-ejercicios\numeros-y-arreglos\numeros-y-arreglos\bin\Debug\net6.0\numeros-y-arreglos.pdb
+C:\Users\Belu\Desktop\.NET-ejercicios\numeros-y-arreglos\numeros-y-arreglos\obj\Debug\net6.0\numeros-y-arreglos.csproj.AssemblyReference.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\numeros-y-arreglos\numeros-y-arreglos\obj\Debug\net6.0\numeros-y-arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belu\Desktop\.NET-ejercicios\numeros-y-arreglos\numeros-y-arreglos\obj\Debug\net6.0\numeros-y-arreglos.AssemblyInfoInputs.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\numeros-y-arreglos\numeros-y-arreglos\obj\Debug\net6.0\numeros-y-arreglos.AssemblyInfo.cs
+C:\Users\Belu\Desktop\.NET-ejercicios\numeros-y-arreglos\numeros-y-arreglos\obj\Debug\net6.0\numeros-y-arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\numeros-y-arreglos\numeros-y-arreglos\obj\Debug\net6.0\numeros-y-arreglos.dll
+C:\Users\Belu\Desktop\.NET-ejercicios\numeros-y-arreglos\numeros-y-arreglos\obj\Debug\net6.0\refint\numeros-y-arreglos.dll
+C:\Users\Belu\Desktop\.NET-ejercicios\numeros-y-arreglos\numeros-y-arreglos\obj\Debug\net6.0\numeros-y-arreglos.pdb
+C:\Users\Belu\Desktop\.NET-ejercicios\numeros-y-arreglos\numeros-y-arreglos\obj\Debug\net6.0\numeros-y-arreglos.genruntimeconfig.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\numeros-y-arreglos\numeros-y-arreglos\obj\Debug\net6.0\ref\numeros-y-arreglos.dll
