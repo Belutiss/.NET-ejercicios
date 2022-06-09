@@ -1,0 +1,15 @@
+C:\Users\Belu\Desktop\.NET-ejercicios\matriz-bidimensional\matriz-bidimensional\bin\Debug\net6.0\matriz-bidimensional.exe
+C:\Users\Belu\Desktop\.NET-ejercicios\matriz-bidimensional\matriz-bidimensional\bin\Debug\net6.0\matriz-bidimensional.deps.json
+C:\Users\Belu\Desktop\.NET-ejercicios\matriz-bidimensional\matriz-bidimensional\bin\Debug\net6.0\matriz-bidimensional.runtimeconfig.json
+C:\Users\Belu\Desktop\.NET-ejercicios\matriz-bidimensional\matriz-bidimensional\bin\Debug\net6.0\matriz-bidimensional.dll
+C:\Users\Belu\Desktop\.NET-ejercicios\matriz-bidimensional\matriz-bidimensional\bin\Debug\net6.0\matriz-bidimensional.pdb
+C:\Users\Belu\Desktop\.NET-ejercicios\matriz-bidimensional\matriz-bidimensional\obj\Debug\net6.0\matriz-bidimensional.csproj.AssemblyReference.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\matriz-bidimensional\matriz-bidimensional\obj\Debug\net6.0\matriz-bidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belu\Desktop\.NET-ejercicios\matriz-bidimensional\matriz-bidimensional\obj\Debug\net6.0\matriz-bidimensional.AssemblyInfoInputs.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\matriz-bidimensional\matriz-bidimensional\obj\Debug\net6.0\matriz-bidimensional.AssemblyInfo.cs
+C:\Users\Belu\Desktop\.NET-ejercicios\matriz-bidimensional\matriz-bidimensional\obj\Debug\net6.0\matriz-bidimensional.csproj.CoreCompileInputs.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\matriz-bidimensional\matriz-bidimensional\obj\Debug\net6.0\matriz-bidimensional.dll
+C:\Users\Belu\Desktop\.NET-ejercicios\matriz-bidimensional\matriz-bidimensional\obj\Debug\net6.0\refint\matriz-bidimensional.dll
+C:\Users\Belu\Desktop\.NET-ejercicios\matriz-bidimensional\matriz-bidimensional\obj\Debug\net6.0\matriz-bidimensional.pdb
+C:\Users\Belu\Desktop\.NET-ejercicios\matriz-bidimensional\matriz-bidimensional\obj\Debug\net6.0\matriz-bidimensional.genruntimeconfig.cache
+C:\Users\Belu\Desktop\.NET-ejercicios\matriz-bidimensional\matriz-bidimensional\obj\Debug\net6.0\ref\matriz-bidimensional.dll

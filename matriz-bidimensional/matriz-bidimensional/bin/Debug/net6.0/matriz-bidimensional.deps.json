@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "matriz-bidimensional/1.0.0": {
+        "runtime": {
+          "matriz-bidimensional.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "matriz-bidimensional/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
